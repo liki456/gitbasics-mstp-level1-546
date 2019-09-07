@@ -1,0 +1,93 @@
+R&D6@DESKTOP-2P4DM9I MINGW64 ~
+$ nano fgg.txt
+
+R&D6@DESKTOP-2P4DM9I MINGW64 ~
+$  pwd
+/c/Users/R&D6
+
+R&D6@DESKTOP-2P4DM9I MINGW64 ~
+$ cd Desktop
+
+R&D6@DESKTOP-2P4DM9I MINGW64 ~/Desktop
+$ mkdir 234
+
+R&D6@DESKTOP-2P4DM9I MINGW64 ~/Desktop
+$ cd 234
+
+R&D6@DESKTOP-2P4DM9I MINGW64 ~/Desktop/234
+$ ls
+
+R&D6@DESKTOP-2P4DM9I MINGW64 ~/Desktop/234
+$ rmdir 234
+rmdir: failed to remove '234': No such file or directory
+
+R&D6@DESKTOP-2P4DM9I MINGW64 ~/Desktop/234
+$ cd -
+/c/Users/R&D6/Desktop
+
+R&D6@DESKTOP-2P4DM9I MINGW64 ~/Desktop
+$ rmdir 234
+
+R&D6@DESKTOP-2P4DM9I MINGW64 ~/Desktop
+$ ls
+ 123/          ds17/          'Git-2.23.0-64-bit (1).exe'*   Windows_10_activator/              Windows_10_activator.zip
+ desktop.ini  'ds17 - Copy'/  'Google Chrome.lnk'*          'Windows_10_activator - Copy.zip'   Yandex.lnk*
+
+R&D6@DESKTOP-2P4DM9I MINGW64 ~/Desktop
+$ echo hello
+hello
+
+R&D6@DESKTOP-2P4DM9I MINGW64 ~/Desktop
+$ echo {20....90}
+{20....90}
+
+R&D6@DESKTOP-2P4DM9I MINGW64 ~/Desktop
+$ echo{1...10}
+bash: echo{1...10}: command not found
+
+R&D6@DESKTOP-2P4DM9I MINGW64 ~/Desktop
+$ mkdir 234
+
+R&D6@DESKTOP-2P4DM9I MINGW64 ~/Desktop
+$ ls
+ 123/   desktop.ini  'ds17 - Copy'/                'Google Chrome.lnk'*    'Windows_10_activator - Copy.zip'   Yandex.lnk*
+ 234/   ds17/        'Git-2.23.0-64-bit (1).exe'*   Windows_10_activator/   Windows_10_activator.zip
+
+R&D6@DESKTOP-2P4DM9I MINGW64 ~/Desktop
+$ cd 234
+
+R&D6@DESKTOP-2P4DM9I MINGW64 ~/Desktop/234
+$ touch
+touch: missing file operand
+Try 'touch --help' for more information.
+
+R&D6@DESKTOP-2P4DM9I MINGW64 ~/Desktop/234
+$ touch sample.txt
+
+R&D6@DESKTOP-2P4DM9I MINGW64 ~/Desktop/234
+$ ls
+sample.txt
+
+R&D6@DESKTOP-2P4DM9I MINGW64 ~/Desktop/234
+$ nano sample.txt
+
+R&D6@DESKTOP-2P4DM9I MINGW64 ~/Desktop/234
+$ cat sample.txt
+dzsdfghjkl;kjhgvc
+jhgfdsa
+kmjnhbgvfcx
+lkjhbgvfc
+
+
+R&D6@DESKTOP-2P4DM9I MINGW64 ~/Desktop/234
+$ rm-rf
+bash: rm-rf: command not found
+
+R&D6@DESKTOP-2P4DM9I MINGW64 ~/Desktop/234
+$ rm -rf sample.txt
+
+R&D6@DESKTOP-2P4DM9I MINGW64 ~/Desktop/234
+$ ^C
+
+R&D6@DESKTOP-2P4DM9I MINGW64 ~/Desktop/234
+$
